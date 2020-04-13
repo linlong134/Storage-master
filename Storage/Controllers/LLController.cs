@@ -21,6 +21,8 @@ namespace Storage.Controllers
         {
             return View();
         }
-        
+        public ActionResult dd() {
+
+        }
     }
 }
